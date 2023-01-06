@@ -1,11 +1,12 @@
 # Python_Projects
 *** 
+
+
 ## Python Basic Projects 
 ### source : https://www.youtube.com/watch?v=pdy3nh1tn6I
-
 * ~~Email Sender~~
 * ~~Word Replacement program~~
-* Casic Calculator 
+* Basic Calculator 
 * Email Slicer
 * Binary Search Algorithm
 * Quiz Program
@@ -24,7 +25,8 @@
 * Graph Plotter
 
 ## Python Zelda
-link : https://www.youtube.com/watch?v=QU1pPzEGrqw&ab_channel=ClearCode
+
+### source : https://www.youtube.com/watch?v=QU1pPzEGrqw&ab_channel=ClearCode
 ### Done ✅
 *  Project Setup
 * Level Setup
