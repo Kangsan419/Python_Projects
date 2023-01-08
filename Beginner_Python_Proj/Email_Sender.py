@@ -4,9 +4,9 @@ import smtplib
 
 
 email_sender = 'matthewkim419@gmail.com'
-email_password = 'ypqymqultbbbmvkz'
+email_password = ''
 
-email_receiver ='jedeh15681@letpays.com'
+email_receiver =''
 
 subject = "Hello I am Auto Bot"
 body = '''
